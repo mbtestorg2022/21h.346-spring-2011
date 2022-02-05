@@ -22,57 +22,493 @@ Attendance and class participation is mandatory. Students will write three 3-pag
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation | 25 points |
-| Three-page papers | 25 points each (75 points total) |
-| Final paper | 75 points |
-| Oral presentation | 25 points |
-| **Total** | **200 points** 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+25 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three-page papers
+{{< tdclose >}}
+{{< tdopen >}}
+25 points each (75 points total)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+75 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral presentation
+{{< tdclose >}}
+{{< tdopen >}}
+25 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Total**
+{{< tdclose >}}
+{{< tdopen >}}
+**200 points**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Week #1**{{< /td-colspan >}} |||
-| 1 | Introduction | &nbsp; |
-| {{< td-colspan 3 >}}**Week #2**{{< /td-colspan >}} |||
-| 2 | The Material World and the Political Background | &nbsp; |
-| 3 | 1789: Lists of Grievances | &nbsp; |
-| {{< td-colspan 3 >}}**Week #3**{{< /td-colspan >}} |||
-| 4 | The Theory and Practice of Absolutism under Louis XIV | &nbsp; |
-| 5 | Taxes and Provincial Reform | &nbsp; |
-| {{< td-colspan 3 >}}**Week #4**{{< /td-colspan >}} |||
-| 6 | Tartuffe I | &nbsp; |
-| 7 | Tartuffe II | &nbsp; |
-| {{< td-colspan 3 >}}**Week #5**{{< /td-colspan >}} |||
-| 8 | Introduction to the Eighteenth Century | First Paper Due |
-| 9 | Religion in France from Louis XIV to the Revolution | &nbsp; |
-| {{< td-colspan 3 >}}**Week #6**{{< /td-colspan >}} |||
-| 10 | The _Encyclopédie_ I | &nbsp; |
-| 11 | The _Encyclopédie_ II | Visit to the MIT Archives |
-| {{< td-colspan 3 >}}**Week #7**{{< /td-colspan >}} |||
-| 12 | _Mahomet_ I | &nbsp; |
-| 13 | _Mahomet_ II | &nbsp; |
-| {{< td-colspan 3 >}}**Week #8**{{< /td-colspan >}} |||
-| 14 | Popular Culture and Politics I: Workers and Servants | &nbsp; |
-| 15 | Popular Culture and Politics II: Theater and Song | Second Paper Due |
-| {{< td-colspan 3 >}}**Week #9**{{< /td-colspan >}} |||
-| 16 | 1789: The Abolition of Feudalism and the Rights of Man | Summary of Final Paper Due |
-| 17 | The Revolution and Religion | &nbsp; |
-| {{< td-colspan 3 >}}**Week #10**{{< /td-colspan >}} |||
-| 18 | Slavery, Feminism, and the Revolution | &nbsp; |
-| 19 | Theater, Politics, and Society During the Revolution | &nbsp; |
-| {{< td-colspan 3 >}}**Week #11**{{< /td-colspan >}} |||
-| &nbsp; | No Class | &nbsp; |
-| 20 | The Dilemma of the Terror | Third Paper Due |
-| {{< td-colspan 3 >}}**Week #12**{{< /td-colspan >}} |||
-| 21 | Napoleon, the Politician and Legislator | &nbsp; |
-| 22 | Napoleon, the Emperor | &nbsp; |
-| {{< td-colspan 3 >}}**Week #13**{{< /td-colspan >}} |||
-| 23 | Oral Presentations | &nbsp; |
-| 24 | Oral Presentations (cont.) | &nbsp; |
-| {{< td-colspan 3 >}}**Week #14**{{< /td-colspan >}} |||
-| 25 | Individual Consultations with Instructor | &nbsp; |
-| 26 | Conclusion |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week #1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week #2**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The Material World and the Political Background
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+1789: Lists of Grievances
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week #3**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Theory and Practice of Absolutism under Louis XIV
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Taxes and Provincial Reform
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week #4**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Tartuffe I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Tartuffe II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week #5**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Eighteenth Century
+{{< tdclose >}}
+{{< tdopen >}}
+First Paper Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Religion in France from Louis XIV to the Revolution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week #6**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The _Encyclopédie_ I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+The _Encyclopédie_ II
+{{< tdclose >}}
+{{< tdopen >}}
+Visit to the MIT Archives
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week #7**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+_Mahomet_ I
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+_Mahomet_ II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week #8**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Popular Culture and Politics I: Workers and Servants
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Popular Culture and Politics II: Theater and Song
+{{< tdclose >}}
+{{< tdopen >}}
+Second Paper Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week #9**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+1789: The Abolition of Feudalism and the Rights of Man
+{{< tdclose >}}
+{{< tdopen >}}
+Summary of Final Paper Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+The Revolution and Religion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week #10**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Slavery, Feminism, and the Revolution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Theater, Politics, and Society During the Revolution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week #11**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+No Class
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+The Dilemma of the Terror
+{{< tdclose >}}
+{{< tdopen >}}
+Third Paper Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week #12**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Napoleon, the Politician and Legislator
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Napoleon, the Emperor
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week #13**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Week #14**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Consultations with Instructor
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

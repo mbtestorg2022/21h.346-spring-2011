@@ -19,9 +19,54 @@ Example: Madame Pernelle is not always receptive to her daughter-in-law's attemp
 
 The requirements for the final are different than the other assignments. See the explanation of the final assignment.
 
-| ASSIGNMENTS | DUE |
-| --- | --- |
-| [First paper]({{< baseurl >}}/pages/assignments/the-first-paper) | 8th class session |
-| [Second paper]({{< baseurl >}}/pages/assignments/the-second-paper) | 13th class session |
-| [Third paper]({{< baseurl >}}/pages/assignments/the-third-paper) | 20th class session |
-| [Final paper]({{< baseurl >}}/pages/assignments/the-final-paper) | 26th (final) class session
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+DUE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[First paper]({{< baseurl >}}/pages/assignments/the-first-paper)
+{{< tdclose >}}
+{{< tdopen >}}
+8th class session
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Second paper]({{< baseurl >}}/pages/assignments/the-second-paper)
+{{< tdclose >}}
+{{< tdopen >}}
+13th class session
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Third paper]({{< baseurl >}}/pages/assignments/the-third-paper)
+{{< tdclose >}}
+{{< tdopen >}}
+20th class session
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Final paper]({{< baseurl >}}/pages/assignments/the-final-paper)
+{{< tdclose >}}
+{{< tdopen >}}
+26th (final) class session
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
